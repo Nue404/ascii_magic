@@ -1,5 +1,4 @@
-# ascii magic
-pip install ascii_magic
+# pip install ascii_magic
 
 Convert Image To ASCII Art With Python
 Usage? Use Your Brain!
